@@ -52,3 +52,8 @@ PAT-00856 — Alexa Smart Speaker — R$ 500,00
 # Evidencias: 
 
 ![foto1](./foto1)
+![foto2](./foto2)
+![foto3](./foto3)
+![foto4](./foto4)
+![foto5](./foto5)
+![foto6](./foto6)
