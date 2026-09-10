@@ -48,3 +48,7 @@ PAT-00125 — Notebook Dell — R$ 3.500,00
 PAT-00123 — Celular Iphone — R$ 4.500,00
 PAT-00555 — Tablet Samsung — R$ 1.500,00
 PAT-00856 — Alexa Smart Speaker — R$ 500,00
+
+# Evidencias: 
+
+![foto1](./
